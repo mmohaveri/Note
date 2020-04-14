@@ -40,7 +40,7 @@
 - [Complex Event Flows in Distributed Systems](https://www.youtube.com/watch?v=de9qjAOS7Ak) (YouTube)
 - [Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8) (YouTube)
 
-### Microservices
+#### Microservices
 
 - [Orchestration of Microservices](https://www.youtube.com/watch?v=GPgOeK-QytA) (YouTube)
 - Microservices (Book)
@@ -58,6 +58,13 @@
 - [Four Distributed Systems Architectural Patterns](https://www.youtube.com/watch?v=tpspO9K28PM) (YouTube)
 - [Event-Driven Microservices - not (just) about Events!](https://www.youtube.com/watch?v=DzGuDNHsOQ0) (YouTube)
 - [Authentication as a Microservice](https://www.youtube.com/watch?v=SLc3cTlypwM) (YouTube)
+
+### Frontend Design Patterns
+
+- [Micro Frontends, extending the microservice idea to frontend development](http://micro-frontends.org)
+- [Independent Deployment of the Frontend with Docker and Kubernetes](https://www.youtube.com/watch?v=Td7w0_nD5_4&t=827s) (YouTube)
+- [Secrets of the DOM Virtual Machine](https://www.youtube.com/watch?v=kD3LaHtwMm8) (YouTube)
+- [Immutable User Interfaces](https://www.youtube.com/watch?v=rtcn9I9sB5M) (YouTube)
 
 ## Other
 
