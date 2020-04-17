@@ -1,10 +1,5 @@
 # Programming
 
-## C++
-
-- A Flexible Reflection System in C++: [Part 1](https://preshing.com/20180116/a-primitive-reflection-system-in-cpp-part-1/),
-  [Part 2](https://preshing.com/20180124/a-flexible-reflection-system-in-cpp-part-2/) (Web article)
-
 ## GO
 
 - [Go Tooling in Action](https://www.youtube.com/watch?v=uBjoTxosSys) (YouTube)
@@ -35,12 +30,6 @@
 - [The SQLAlchemy Session - In Depth](https://www.youtube.com/watch?v=PKAdehPHOMo) (YouTube)
 - [Lynn Root - Advanced asyncio: Solving Real-world Production Problems](https://www.youtube.com/watch?v=sW76-pRkZk8) (YouTube)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) (Book)
-
-## System Programming
-
-- [This Is How Docker Works, The Fun Way!](https://www.youtube.com/watch?v=-NzfOhSAZpA) (YouTube)
-- [How Docker Works - Intro to Namespaces](https://www.youtube.com/watch?v=-YnMr1lj4Z8) (YouTube)
-- [Building a container from scratch in Go](https://www.youtube.com/watch?v=Utf-A4rODH8) (YouTube)
 
 ## Javascript
 
@@ -82,10 +71,21 @@
 
 - [Web Components Crash Course](https://www.youtube.com/watch?v=PCWaFLy3VUo) (YouTube)
 
+### Vue
+
+- [The correct way to force Vue to re-render a component](https://michaelnthiessen.com/force-re-render/) (Web article)
+
 ## Bash
 
 - [Bash Scripting Full Course 3 Hours](https://www.youtube.com/watch?v=e7BufAVwDiM) (YouTube)
 - [Bash scripting cheatsheet](https://devhints.io/bash)
+
+## C++
+
+- A Flexible Reflection System in C++: [Part 1](https://preshing.com/20180116/a-primitive-reflection-system-in-cpp-part-1/),
+  [Part 2](https://preshing.com/20180124/a-flexible-reflection-system-in-cpp-part-2/) (Web article)
+
+---
 
 ## API
 
@@ -94,6 +94,12 @@
 - [From REST To GraphQL](https://www.youtube.com/watch?v=ntBU5UXGbM8) (YouTube)
 - [gRPC vs REST: let the battle begin!](https://www.youtube.com/watch?v=ZDUA5pD50Ok) (YouTube)
 - [Intro: gRPC-Web](https://www.youtube.com/watch?v=RtyKEDZipsM) (YouTube)
+
+## System Programming
+
+- [This Is How Docker Works, The Fun Way!](https://www.youtube.com/watch?v=-NzfOhSAZpA) (YouTube)
+- [How Docker Works - Intro to Namespaces](https://www.youtube.com/watch?v=-YnMr1lj4Z8) (YouTube)
+- [Building a container from scratch in Go](https://www.youtube.com/watch?v=Utf-A4rODH8) (YouTube)
 
 ## Technologies
 
@@ -105,22 +111,10 @@
 - [Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down](https://www.youtube.com/watch?v=90kZRyPcRZw) (YouTube)
 - [7 Tips and Tricks to Enjoying Your Kubernetes Journey](https://www.youtube.com/watch?v=RRCzgVI4ptY) (YouTube)
 
-### Machile Learning Engineering
-
-- [Mesh-TensorFlow: Model Parallelism for Supercomputers](https://www.youtube.com/watch?v=HgGyWS40g-g) (YouTube)
-- [TensorFlow Extended (TFX)](https://www.youtube.com/watch?v=vdG7uKQ2eKk) (YouTube)
-- [Building ML Products With Kubeflow](https://www.youtube.com/watch?v=sC8Ce9vUggo) (YouTube)
-- [KubeFlow: Pythonic Machine Learning at Scale on Kubernetes](https://www.youtube.com/watch?v=b_CvqzmB51M) (YouTube)
-- [Serving ML Models at Scale with Seldon and Kubeflow](https://www.youtube.com/watch?v=pDlapGtecbY) (YouTube)
-
 ## Client
 
 - [PWA vs Native (aka There's A Progressive Web App For That)](https://www.youtube.com/watch?v=vhg01Ml-8pI) (YouTube)
 - [Progressive Web Apps Demystified](https://www.youtube.com/watch?v=saGLwEbcfU0) (YouTube)
-
-## Machine Learning
-
-- [Machine Learning at Uber (Natural Language Processing Use Cases)](https://www.youtube.com/watch?v=R9z6s0Jx2p0) (YouTube)
 
 ## Authentication & Authorization
 
