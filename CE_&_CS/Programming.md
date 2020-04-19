@@ -89,6 +89,8 @@
 
 ## API
 
+- [Comparing sizes of protobuf vs json](https://nilsmagnus.github.io/post/proto-json-sizes/)
+
 - [APIs: The Good, The Bad, The Ugly](https://www.youtube.com/watch?v=t0nl5aUfAvY) (YouTube)
 - [GraphQL: WHAT, WHY, HOW](https://www.youtube.com/watch?v=HcUqrj6Romk) (YouTube)
 - [From REST To GraphQL](https://www.youtube.com/watch?v=ntBU5UXGbM8) (YouTube)
