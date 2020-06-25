@@ -13,3 +13,5 @@
 - [You're The Tech Lead! Now What?](https://www.youtube.com/watch?v=muls9BogsVQ) (YouTube)
 - [Actionable Tactics for Leveling Up Junior Developers](https://www.youtube.com/watch?v=SLWpMGs1E9E) (YouTube)
 - [Talking with Tech Leads (aka How To Become a Tech Lead)](https://www.youtube.com/watch?v=V_sRgLpt_n0) (YouTube)
+- [Tips for unleashing radical creativity](https://blog.x.company/tips-for-unleashing-radical-creativity-f4ba55602e17)
+- [How To Be a More Influential Engineer](https://developer.squareup.com/blog/how-to-be-a-more-influential-engineer/)
