@@ -1,0 +1,29 @@
+# Add copy alias
+alias cft="xclip -selection clipboard"
+
+# Add vpn alias
+alias vpn="echo 'password' | sudo openconnect server --user=user --passwd-on-stdin"
+
+
+# Load additional completion
+fpath=(~/.zsh/completion $fpath)
+autoload -Uz compinit && compinit -i
+
+# Virtualenvwrapper config
+export WORKON_HOME=$HOME/.virtualenvs
+export PROJECT_HOME=$HOME/Devel
+export VIRTUALENVWRAPPER_PYTHON=`which python3`
+source /usr/local/bin/virtualenvwrapper.sh
+
+# Add alias for ipython in virtualenv
+alias ipy="python -c 'import IPython;
+IPython.terminal.ipapp.launch_new_instance()'"
+
+# GO config
+export GOROOT="/usr/local/go"
+export GOPATH="$HOME/work"
+export PATH="$GOROOT/bin:$GOPATH/bin:$PATH"
+
+# CUDA config
+export PATH="/usr/local/cuda-10.0/bin:$PATH"
+export LD_LIBRARY_PATH="/usr/local/cuda-10.0/lib64:$LD_LIBRARY_PATH"

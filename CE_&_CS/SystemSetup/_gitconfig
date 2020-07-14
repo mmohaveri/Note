@@ -1,0 +1,7 @@
+[user]
+	name = Mahdi Mohaveri
+	email = mmohaveri@gmail.com
+[core]
+	editor = vim
+[credential]
+	helper = store
