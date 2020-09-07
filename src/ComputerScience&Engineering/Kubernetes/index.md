@@ -17,6 +17,8 @@ A summary of talks and articles that may help you understand Kubernetes a little
 
 - ## [Pod Networks and comparison of popular CNI plugins](pod-networks-and-comparison-of-popular-CNI-plugins.md)
 
+- ## [Kubernetes Auth and Access Control](kubernetes-auth-and-access-control.md)
+
 - ## [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
   An step by step guide for manually setting up a multi-master kubernetes cluster.
