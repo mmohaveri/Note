@@ -19,6 +19,8 @@ A summary of talks and articles that may help you understand Kubernetes a little
 
 - ## [Kubernetes Auth and Access Control](kubernetes-auth-and-access-control.md)
 
+- ## [Monitoring & Prometheus](monitoring-and-prometheus.md)
+
 - ## [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
   An step by step guide for manually setting up a multi-master kubernetes cluster.
