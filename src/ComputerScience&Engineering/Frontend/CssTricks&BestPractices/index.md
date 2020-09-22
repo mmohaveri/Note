@@ -1,8 +1,6 @@
 # CSS tricks & best practices
 
-## CSS
-
-### Basics
+## Basics
 
 - [CSS Positioning: Position absolute and relative explained](https://www.youtube.com/watch?v=P6UgYq3J3Qs&t=28s) (YouTube)
 - Before and After pseudo elements explained -
@@ -10,13 +8,13 @@
   [part two: the content property](https://www.youtube.com/watch?v=xoRbkm8XgfQ&t=673s),
   [part three: as design elements](https://www.youtube.com/watch?v=djbtPnNmc0I&t=788s) (YouTube)
 
-### CSS Layout
+## Layout
 
 - [Animated Responsive Navbar with CSS](https://www.youtube.com/watch?v=biOMz4puGt8) (YouTube)
 - [The Joy of CSS Grid - Build 3 Beautifully Simple Responsive Layouts](https://www.youtube.com/watch?v=705XCEruZFs) (YouTube)
 - [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
 
-### Examples
+## Examples
 
 - [Clip an image to text with CSS](https://www.youtube.com/watch?v=9Kr3T4Ndl-o) (YouTube)
 - [Using Feature Queries to use new CSS responsibly](https://www.youtube.com/watch?v=wPI8CEoheSk) (YouTube)
