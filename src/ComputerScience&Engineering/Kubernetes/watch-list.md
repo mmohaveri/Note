@@ -1,10 +1,13 @@
 # Watching list
 
-## Cluster setup
+## Need Summary
 
-- [From Minikube to Production, Never Miss a Step in Getting Your K8s Ready](https://www.youtube.com/watch?v=q3pfpzWPgK8)
-- [Kubeadm Deep Dive](https://www.youtube.com/watch?v=DhsFfNSIrQ4)
-- [Minikube](https://www.youtube.com/watch?v=xdoOmSSCxo8)
+- Kubernetes Design Principles: Understand the Why - Saad Ali, Google (CNCF, Dec 15, 2018)
+- How to migrate databases into Kubernetes? (CNCF, Aug 27, 2020)
+- Effective RBAC - Jordan Liggitt, Red Hat (CNCF, Dec 15, 2017)
+- Stop Breaking the Proto! Designing for Change in an Microservice World - Ryan Michela, Saleforce (CNCF, Aug 5, 2020)
+- docs docs docs docs - Erin McKean, Docs Advocacy Program Mgr, Google Open Source Programs Office (CNCF, Aug 2, 2020)
+- [Help, My Cluster in on the internet: Container Security Fundamentals](https://www.youtube.com/watch?v=lEH7lEcCNeQ)
 
 ## Security
 
@@ -17,7 +20,6 @@
 - [Open Policy Agent Introduction](https://www.youtube.com/watch?v=tGVxKU5jRHY)
 - [Threat Modelling: Securing Kubernetes Infrastructure & Deployments](https://www.youtube.com/watch?v=_T-5QhZieH8)
 - [How Many CPU Cycles I Need to Invest in Cloud Native Security?](https://www.youtube.com/watch?v=DAnakO5QmUY)
-- [Help, My Cluster in on the internet: Container Security Fundamentals](https://www.youtube.com/watch?v=lEH7lEcCNeQ)
 - [Getting Started With Cloud Native Security](https://www.youtube.com/watch?v=MisS3wSds40)
 - [Where Are Your Images Running? Stop Worrying and Start Encrypting](https://www.youtube.com/watch?v=tRWMxuMEy9I)
 
@@ -135,7 +137,7 @@
 - [Easy, Secure and Fast - Using NATS for Data Streams and Services](https://www.youtube.com/watch?v=-IuFNF7D4AE)
 - [Intro to gRPC](https://www.youtube.com/watch?v=n03sULIafeo)
 - [gRPC Easy](https://www.youtube.com/watch?v=4PWVCI-m6Gw)
-- [Intro:L Brigade](https://www.youtube.com/watch?v=SL2EIXLZjmw)
+- [Intro: Brigade](https://www.youtube.com/watch?v=SL2EIXLZjmw)
 
 ## Database
 
