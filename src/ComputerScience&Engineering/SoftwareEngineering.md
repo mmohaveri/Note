@@ -59,13 +59,6 @@
 - [Event-Driven Microservices - not (just) about Events!](https://www.youtube.com/watch?v=DzGuDNHsOQ0) (YouTube)
 - [Authentication as a Microservice](https://www.youtube.com/watch?v=SLc3cTlypwM) (YouTube)
 
-### Frontend Design Patterns
-
-- [Micro Frontends, extending the microservice idea to frontend development](http://micro-frontends.org)
-- [Independent Deployment of the Frontend with Docker and Kubernetes](https://www.youtube.com/watch?v=Td7w0_nD5_4&t=827s) (YouTube)
-- [Secrets of the DOM Virtual Machine](https://www.youtube.com/watch?v=kD3LaHtwMm8) (YouTube)
-- [Immutable User Interfaces](https://www.youtube.com/watch?v=rtcn9I9sB5M) (YouTube)
-
 ## Other
 
 - [An Engineer's Guide to a Good Night's Sleep](https://www.youtube.com/watch?v=ka__DWjgtaE&t=188s) (YouTube)
