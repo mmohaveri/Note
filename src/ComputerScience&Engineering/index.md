@@ -1,6 +1,6 @@
 # Computer Science & Engineering
 
-- **[Machine Learning](src/MachineLearning.md)**
-- **[Programming](src/Programming.md)**
-- **[Software Engineering](src/SoftwareEngineering.md)**
-- **[Kubernetes](src/Kubernetes/index.md)**
+- **[Machine Learning](MachineLearning.md)**
+- **[Programming](Programming.md)**
+- **[Software Engineering](SoftwareEngineering.md)**
+- **[Kubernetes](Kubernetes/index.md)**
