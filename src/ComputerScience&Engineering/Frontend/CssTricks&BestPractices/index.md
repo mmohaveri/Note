@@ -1,5 +1,9 @@
 # CSS tricks & best practices
 
+## Code style & Organization
+
+- ### [Organizing CSS BEM](organizing-css-with-bem.md)
+
 ## Basics
 
 - [CSS Positioning: Position absolute and relative explained](https://www.youtube.com/watch?v=P6UgYq3J3Qs&t=28s) (YouTube)
