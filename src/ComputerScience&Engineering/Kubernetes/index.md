@@ -17,6 +17,8 @@ A summary of talks and articles that may help you understand Kubernetes a little
 
 - ## [Pod Networks and comparison of popular CNI plugins](pod-networks-and-comparison-of-popular-CNI-plugins.md)
 
+- ## [What Service Mesh Should I use?](what-service-mesh-should-I-use.md)
+
 - ## [Kubernetes Auth and Access Control](kubernetes-auth-and-access-control.md)
 
 - ## [Monitoring & Prometheus](monitoring-and-prometheus.md)
